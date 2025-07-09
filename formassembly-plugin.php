@@ -2,7 +2,7 @@
 /**
  * Plugin Name: FormAssembly Embeds
  * Description: This plugin provides embedding support for FormAssembly forms.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Human Made Limited
  * Author URI: https://humanmade.com
  * License: GPL-2.0-or-later
