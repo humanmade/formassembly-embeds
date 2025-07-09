@@ -1,0 +1,9 @@
+{
+    "name": "humanmade/formassembly-embeds",
+    "description": "FormAssenmbly embed handler plugin for WordPress",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "^2.3"
+    },
+    "license": "GPL-2.0-or-later"
+}
