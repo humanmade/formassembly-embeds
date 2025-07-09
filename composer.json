@@ -1,6 +1,6 @@
 {
     "name": "humanmade/formassembly-embeds",
-    "description": "FormAssenmbly embed handler plugin for WordPress",
+    "description": "FormAssembly embed handler plugin for WordPress",
     "type": "wordpress-plugin",
     "require": {
         "composer/installers": "^2.3"
